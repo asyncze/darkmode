@@ -3,7 +3,8 @@
 # pip install -r requirements.txt
 # deactivate
 
-# .venv/bin/python darkmode.py
+# .venv/bin/python darkmode.py (run)
+# .venv/bin/python setup.py py2app (build)
 
 # Script Editor -> Save as Application
 #
