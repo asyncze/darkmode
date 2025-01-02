@@ -6,7 +6,7 @@
 # .venv/bin/python darkmode.py (run)
 # .venv/bin/python setup.py py2app (build)
 
-# Script Editor -> Save as Application
+# Script Editor -> Save as Application (ToggleDarkMode)
 #
 # tell application "System Events"
 #     tell appearance preferences
