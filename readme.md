@@ -13,7 +13,7 @@ Dark mode toggle for the toolbar (MacOS)
         end tell
     end tell
     ```
-3. Save as Application (ToggleDarkMode)
+3. Save as Application (ToggleDarkMode.app)
 
 ## Build
 
