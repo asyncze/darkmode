@@ -6,11 +6,14 @@ Dark mode toggle for the toolbar (MacOS)
 
 1. Open Script Editor
 2. Paste
-    tell application "System Events"
-        tell appearance preferences
-            set dark mode to not dark mode
-        end tell
+
+```appscript
+tell application "System Events"
+    tell appearance preferences
+        set dark mode to not dark mode
     end tell
+end tell
+```
 3. Save as Application (ToggleDarkMode)
 
 ## Build
