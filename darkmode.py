@@ -22,4 +22,3 @@ class Darkmode(rumps.App):
     def toggle_dark_mode(self, _): os.system("""open -a 'ToggleDarkMode'""")
 
 if __name__ == "__main__": Darkmode("Darkmode").run()
-
